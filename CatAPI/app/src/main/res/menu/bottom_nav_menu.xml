@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_cats"
+        android:icon="@drawable/ic_download_black_24dp"
+        android:title="@string/title_random" />
+
+    <item
+        android:id="@+id/navigation_favorites"
+        android:icon="@drawable/ic_favorites_black_24dp"
+        android:title="@string/title_favorites" />
+
+</menu>
